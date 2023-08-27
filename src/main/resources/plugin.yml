@@ -1,0 +1,9 @@
+name: TextCreator
+version: '${project.version}'
+main: com.xxdraggy.textcreator.TextCreator
+api-version: 1.20
+authors: [ Xx_Draggy ]
+depend: [ ProtocolLib ]
+commands:
+  test:
+    description: open
